@@ -1,0 +1,11 @@
+log_entry,log_level
+17/06/08 19:53:19 INFO executor.Executor: Running task 34.0 in stage 6941.0 (TID 277710),INFO
+17/06/08 20:04:38 INFO executor.Executor: Running task 3.0 in stage 8487.0 (TID 339528),INFO
+"17/06/09 12:26:45 INFO storage.MemoryStore: Block broadcast_7660_piece0 stored as bytes in memory (estimated size 6.1 KB, free 1163.4 KB)",INFO
+"17/06/07 15:41:33 INFO python.PythonRunner: Times: total = 40, boot = -44, init = 83, finish = 1",INFO
+"17/06/08 21:11:54 INFO python.PythonRunner: Times: total = 41, boot = -38, init = 79, finish = 0",INFO
+17/06/07 15:43:13 INFO executor.Executor: Running task 9.0 in stage 839.0 (TID 33571),INFO
+17/06/08 21:20:51 INFO executor.Executor: Finished task 10.0 in stage 15973.0 (TID 638979). 2206 bytes result sent to driver,INFO
+17/06/09 11:19:02 INFO executor.Executor: Running task 25.0 in stage 449.0 (TID 18384),INFO
+"17/06/08 15:49:37 INFO spark.CacheManager: Partition rdd_86_14 not found, computing it",INFO
+17/02/01 18:48:41 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 85272,INFO

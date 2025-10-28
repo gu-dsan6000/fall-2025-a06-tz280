@@ -1,0 +1,52 @@
+================================================================================
+Problem 2: Cluster Usage Analysis - Summary Statistics
+================================================================================
+
+Total unique clusters: 6
+Total applications: 3852
+Average applications per cluster: 642.00
+
+Most heavily used clusters:
+--------------------------------------------------------------------------------
+  Cluster 1485248649253: 3608 applications
+  Cluster 1448006111297: 170 applications
+  Cluster 1460011102909: 29 applications
+  Cluster 1472621869829: 23 applications
+  Cluster 1440487435730: 21 applications
+  Cluster 1474351042505: 1 applications
+
+Cluster timeline details:
+--------------------------------------------------------------------------------
+  Cluster 1485248649253:
+    First app: 2017-01-24 17:00:28
+    Last app:  2017-07-27 21:45:00
+    Duration:  184 days 04:44:32
+
+  Cluster 1448006111297:
+    First app: 2016-04-07 10:45:21
+    Last app:  2016-04-07 12:22:08
+    Duration:  0 days 01:36:47
+
+  Cluster 1460011102909:
+    First app: 2016-07-26 11:54:20
+    Last app:  2016-07-26 12:19:25
+    Duration:  0 days 00:25:05
+
+  Cluster 1472621869829:
+    First app: 2016-09-09 07:43:47
+    Last app:  2016-09-09 10:07:06
+    Duration:  0 days 02:23:19
+
+  Cluster 1440487435730:
+    First app: 2015-09-01 18:14:40
+    Last app:  2015-09-01 18:19:50
+    Duration:  0 days 00:05:10
+
+  Cluster 1474351042505:
+    First app: 2016-11-18 22:30:06
+    Last app:  2016-11-19 00:59:04
+    Duration:  0 days 02:28:58
+
+================================================================================
+Analysis complete!
+================================================================================
